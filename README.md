@@ -1,2 +1,2 @@
 # ThisandThat
-Fun, albeit random projects, exercises, etc.
+Fun, learning, or just random projects and exercises, etc.
